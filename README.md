@@ -1,4 +1,4 @@
-TrendPulse — What's Actually Trending Right Now
+## TrendPulse — What's Actually Trending Right Now
 
 TrendPulse is a Python data analysis project that collects trending stories from the Hacker News API, cleans and analyzes the data, and creates visualizations to understand current trends.
 
